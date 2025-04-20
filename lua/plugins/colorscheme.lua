@@ -6,7 +6,7 @@ return {
     opts = {
       color_overrides = {
         mocha = {
-          base = "#181825",
+          base = "#1C1C1C",
         },
       },
     },
